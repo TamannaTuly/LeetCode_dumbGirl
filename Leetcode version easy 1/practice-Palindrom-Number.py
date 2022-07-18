@@ -11,11 +11,14 @@ while number>0:
     # print("number" + str(number))
     # print("temp"+str(temp))
     # print("rest"+str(rest))
-    if temp==rest:
-        print("its a palindrome")
-    else:
-        print("its not a palindrome")
-
+    # if temp==rest:
+    #     print("its a palindrome")
+    # else:
+    #     print("its not a palindrome")
+if temp == rest:
+    print("g")
+else:
+    print("no")
 
 
 # explanation :
