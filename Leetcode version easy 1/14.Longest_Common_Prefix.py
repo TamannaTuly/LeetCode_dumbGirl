@@ -7,3 +7,5 @@ class Solution:
                     return res
             res += strs[0][i]
         return res
+
+
