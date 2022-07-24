@@ -95,7 +95,20 @@
 # sliceable_string = 'bangladesh my bangladesh'
 # print(sliceable_string[-3: ])
 
+# Modify Strings :
+# Remove Whitespace
 
+# name = '    tamanna n iger tuly ok a y !   '
+# print(name)
+# print(name.strip()) # will remove spaces at the starting or end
+
+
+# Replace String
+# /replace_string = 'tsmsnns'
+# print(replace_string)
+# print(replace_string.replace('s', 'a'))/
+
+# Split String :
 
 
 
